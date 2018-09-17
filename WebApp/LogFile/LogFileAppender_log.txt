@@ -1,0 +1,14 @@
+记录时间：2015-06-04 09:53:12,768 线程ID:[11] 日志级别：文件：所在行INFO  出错类：loginfo property:[(null)] - 错误描述：info
+记录时间：2015-06-04 09:53:12,963 线程ID:[11] 日志级别：文件：所在行DEBUG 出错类：loginfo property:[(null)] - 错误描述：debug
+记录时间：2015-06-04 09:53:12,966 线程ID:[11] 日志级别：文件：所在行WARN  出错类：loginfo property:[(null)] - 错误描述：warn
+记录时间：2015-06-04 09:53:12,968 线程ID:[11] 日志级别：文件：所在行ERROR 出错类：loginfo property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2015-06-04 09:53:12,978 线程ID:[11] 日志级别：文件：所在行FATAL 出错类：loginfo property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误
+记录时间：2015-06-04 09:54:36,508 线程ID:[22] 日志级别：文件：所在行INFO  出错类：loginfo property:[(null)] - 错误描述：info
+记录时间：2015-06-04 09:54:36,557 线程ID:[22] 日志级别：文件：所在行DEBUG 出错类：loginfo property:[(null)] - 错误描述：debug
+记录时间：2015-06-04 09:54:36,558 线程ID:[22] 日志级别：文件：所在行WARN  出错类：loginfo property:[(null)] - 错误描述：warn
+记录时间：2015-06-04 09:54:36,560 线程ID:[22] 日志级别：文件：所在行ERROR 出错类：loginfo property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2015-06-04 09:54:36,565 线程ID:[22] 日志级别：文件：所在行FATAL 出错类：loginfo property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误

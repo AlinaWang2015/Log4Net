@@ -1,0 +1,12 @@
+记录时间：2015-05-21 13:27:58,515 线程ID:[8] 日志级别：文件：所在行ERROR 出错类：loginfo property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2015-05-21 13:27:58,564 线程ID:[8] 日志级别：文件：所在行FATAL 出错类：loginfo property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误
+记录时间：2018-08-27 20:02:58,434 线程ID:[1] 日志级别：文件：所在行ERROR 出错类：loginfo property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2018-08-27 20:02:58,498 线程ID:[1] 日志级别：文件：所在行FATAL 出错类：loginfo property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误
+记录时间：2018-08-27 20:24:27,867 线程ID:[1] 日志级别：文件：所在行ERROR 出错类：loginfo property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2018-08-27 20:24:27,916 线程ID:[1] 日志级别：文件：所在行FATAL 出错类：loginfo property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误

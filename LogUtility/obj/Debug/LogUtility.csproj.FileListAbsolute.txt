@@ -1,0 +1,13 @@
+E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\bin\Debug\LogUtility.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\bin\Debug\LogUtility.pdb
+E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\bin\Debug\log4net.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\obj\Debug\LogUtility.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\obj\Debug\LogUtility.pdb
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\bin\Debug\LogUtility.dll
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\bin\Debug\LogUtility.pdb
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\bin\Debug\log4net.dll
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\obj\Debug\LogUtility.csprojAssemblyReference.cache
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\obj\Debug\LogUtility.csproj.CoreCompileInputs.cache
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\obj\Debug\LogUtility.csproj.CopyComplete
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\obj\Debug\LogUtility.dll
+C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\obj\Debug\LogUtility.pdb

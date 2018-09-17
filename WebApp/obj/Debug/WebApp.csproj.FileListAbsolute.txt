@@ -1,0 +1,9 @@
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\WebApp.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\WebApp.pdb
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\obj\Debug\WebApp.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\obj\Debug\WebApp.pdb
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\log4net.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\LogUtility.dll
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\LogUtility.pdb
+E:\03_Demo\04_Log4Net\Log4NetSolution\WebApp\bin\Log4net.config

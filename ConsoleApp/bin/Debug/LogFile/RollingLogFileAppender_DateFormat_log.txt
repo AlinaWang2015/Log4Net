@@ -1,0 +1,12 @@
+2018-08-27 20:25:02,367 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:80) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2018-08-27 20:25:02,812 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:93) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2018-08-27 20:26:14,581 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:80) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2018-08-27 20:26:14,630 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:93) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2018-08-28 09:09:31,156 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:80) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2018-08-28 09:09:34,535 [1](C:\Users\wangpengxia\Downloads\Log4NetSolution\LogUtility\LogHelper.cs:93) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误

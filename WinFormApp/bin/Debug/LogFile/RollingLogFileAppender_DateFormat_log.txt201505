@@ -1,0 +1,4 @@
+2015-05-21 13:27:58,515 [8](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:79) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2015-05-21 13:27:58,564 [8](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:92) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误

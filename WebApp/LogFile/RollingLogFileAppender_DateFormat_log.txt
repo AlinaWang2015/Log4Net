@@ -1,0 +1,14 @@
+2015-06-04 09:53:12,768 [11](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:46) INFO  loginfo [(null)] - info
+2015-06-04 09:53:12,963 [11](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:59) DEBUG loginfo [(null)] - debug
+2015-06-04 09:53:12,966 [11](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:72) WARN  loginfo [(null)] - warn
+2015-06-04 09:53:12,968 [11](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:85) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2015-06-04 09:53:12,978 [11](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:98) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误
+2015-06-04 09:54:36,508 [22](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:46) INFO  loginfo [(null)] - info
+2015-06-04 09:54:36,557 [22](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:59) DEBUG loginfo [(null)] - debug
+2015-06-04 09:54:36,558 [22](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:72) WARN  loginfo [(null)] - warn
+2015-06-04 09:54:36,560 [22](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:85) ERROR loginfo [(null)] - error
+System.Exception: 发生了一个异常
+2015-06-04 09:54:36,565 [22](E:\03_Demo\04_Log4Net\Log4NetSolution\LogUtility\LogHelper.cs:98) FATAL loginfo [(null)] - fatal
+System.Exception: 发生了一个致命错误
